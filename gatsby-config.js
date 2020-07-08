@@ -37,7 +37,6 @@ module.exports = {
           hostingWPCOM: false,
           // Specify which URL structures to fetch
           includedRoutes: [
-            '**/pages',
             '**/posts',
             '**/tags',
             '**/categories'
